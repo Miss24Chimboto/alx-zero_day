@@ -1,2 +1,2 @@
-New files have been added and js directory deleted. see commit details.
-My first readme
+New files have been added and js directory deleted. See commit details.
+
